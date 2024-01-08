@@ -1,6 +1,11 @@
+##initialize session like a root
+sudo su 
+apt-get update
+apt-get upgrade
+
 nano odooinstall.sh
 
-#agregar en el archivo el siguiente script:
+##agregar en el editor nano el siguiente script lo que esta entre las lineas):
 ----------------------------------------------------------------------------------------------------
 #!/bin/bash
 #Creamos el usuario y grupo de sistema 'odoo':
