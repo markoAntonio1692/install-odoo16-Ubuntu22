@@ -8,7 +8,7 @@ Requeriments for computer or VPS.
 - SSH Server(Server) + SSH Cliente(recommend Putty) for remote connect
   
 ## 1 INSTALL ODOO 16 SCRIPT 
-- Set list commands of file "instalar odoo 16 en ubuntu22.txt"
+- Set commands list of file "instalar odoo 16 en ubuntu22.txt"
 
 ## 2 INSTALL NGINX + CONFIGURE INVERSE PROXY
 
